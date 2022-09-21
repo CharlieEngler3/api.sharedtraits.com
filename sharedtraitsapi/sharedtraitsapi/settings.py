@@ -39,13 +39,14 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'rest_framework',
-    'rest_framework.authtoken',
 
+    'knox',
     'corsheaders',
 
     'sharedtraits',
 ]
 
+#Change 'rest_framework.permissions.AllowAny' to 'rest_framework.permissions.IsAuthenticated'
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [
         'rest_framework.authentication.TokenAuthentication',
@@ -55,7 +56,7 @@ REST_FRAMEWORK = {
     ]
 }
 
-#Change 'rest_framework.permissions.AllowAny' to 'rest_framework.permissions.IsAuthenticated'
+AUTH_USER_MODEL = 'sharedtraits.CustomUser'
 
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
@@ -63,6 +64,7 @@ CORS_ORIGIN_WHITELIST = (
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
+
     'django.middleware.common.CommonMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -123,6 +125,10 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+AUTHENTICATION_BACKENDS = (
+    'django.contrib.auth.backends.ModelBackend',
+)
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.1/topics/i18n/
@@ -145,3 +151,5 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+SITE_ID = 1
