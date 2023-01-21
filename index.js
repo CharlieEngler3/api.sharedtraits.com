@@ -4,6 +4,7 @@ const cors = require('cors');
 const userRouter = require('./routers/users.router.js');
 const questionRouter = require('./routers/questions.router.js');
 const answerRouter = require('./routers/answers.router.js');
+const questionTagSuggestions = require('./routers/questionTagSuggestions.router.js');
 
 const app = express();
 
@@ -18,6 +19,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/users', userRouter);
 app.use('/questions', questionRouter);
 app.use('/answers', answerRouter);
+app.use('/question-tag-suggestions', questionTagSuggestions);
 
 const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => {

@@ -9,5 +9,6 @@ db.url = dbConfig.url;
 db.user = require("./user.model.js")(mongoose);
 db.question = require("./question.model.js")(mongoose);
 db.answer = require("./answer.model.js")(mongoose);
+db.questionTagSuggestions = require("./questionTagSuggestions.model.js")(mongoose);
 
 module.exports = db;
