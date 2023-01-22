@@ -3,19 +3,19 @@ const Question = db.question;
 const Answer = db.answer;
 
 exports.getQuestionsByTag = async (req, res) => {
-    // TODO: Implement me
-
     const tags = req.body.tags;
 
-    let questions = [];
+    let questionList = [];
 
     for(let i = 0; i < tags.length; i++){
-        const question = await Question.find({ $expr: { $in: [tags[i], "$tags"] } });
+        const questions = await Question.find({ $expr: { $in: [tags[i], "$tags"] } });
 
-        questions.push(question);
+        for(let j = 0; j < questions.length; j++){
+            questionList.push(questions[j]);
+        }
     }
 
-    res.send(questions);
+    res.send(questionList);
 };
 
 exports.getQuestionByQuestion = (req, res) => {
