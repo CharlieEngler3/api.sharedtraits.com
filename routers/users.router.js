@@ -9,6 +9,7 @@ router.get('/tags/:id', userController.getUserQuestionTags);
 
 router.get('/answered-questions/:id', userController.getAnsweredQuestions);
 router.post('/submit-answer', userController.submitAnswers);
+router.post('/submit-slider-answer', userController.submitSliderAnswer);
 
 router.post('/register', userController.register);
 router.post('/login', userController.login);

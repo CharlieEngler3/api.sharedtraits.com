@@ -1,6 +1,6 @@
 const db = require("../models");
 const User = db.user;
-const Answers = db.answers;
+const Answer = db.answer;
 
 exports.register = async (req, res) => {
     const user = req.body;
@@ -128,6 +128,7 @@ exports.submitAnswers = (req, res) => {
     const answerIDs = req.body.answerIDs;
 
     // TODO: Remove async from this function
+    // TODO: Consolidate this into a helper function that's shared by submitSliderAnswer
     User.findOne({ _id: userID }).then(user => {
         const answeredQuestions = user.answeredQuestions;
         let answers = user.answers;
@@ -139,15 +140,14 @@ exports.submitAnswers = (req, res) => {
 
         let markedAnswer = null;
         answers.forEach(answer => {
-            if(JSON.parse(answer).questionID == questionID){
+            if(JSON.parse(answer).questionID == questionID)
                 markedAnswer = answer;
-            }
         });
 
         if(markedAnswer){
             answers = answers.filter(answer => {
                 return answer != markedAnswer;
-            })
+            });
         }
         else{
             answeredQuestions.push(questionID);
@@ -158,13 +158,59 @@ exports.submitAnswers = (req, res) => {
         answers.forEach(answer => {
             const parsedAnswers = JSON.parse(answer).answerIDs;
             parsedAnswers.forEach(answerID => {
-                Answers.findOne({ _id: answerID }).then(rawAnswer => {
+                Answer.findOne({ _id: answerID }).then(rawAnswer => {
                     const result = addQuestionTag(userID, rawAnswer.tags);
                     // TODO: Handle the result and catch errors as necessary
                 });
                 // TODO: Error handling
             });
         });
+
+        user.answeredQuestions = answeredQuestions;
+        user.answers = answers;
+        user.save().then(() => {
+            res.status(200).send("Answers Saved");
+        });
+        // TODO: Error handling
+    });
+    // TODO: Error handling
+};
+
+exports.submitSliderAnswer = (req, res) => {
+    const userID = req.body.userID;
+    const questionID = req.body.questionID;
+    const sliderValue = req.body.value;
+    const answerTag = req.body.tag;
+
+    // TODO: Consolidate this into a helper function that's shared by submitAnswers
+    User.findOne({ _id: userID }).then(user => {
+        const answeredQuestions = user.answeredQuestions;
+        let answers = user.answers;
+
+        const newAnswer = JSON.stringify({
+            questionID: questionID,
+            sliderValue: sliderValue
+        });
+
+        let markedAnswer = null;
+        answers.forEach(answer => {
+            if(JSON.parse(answer).questionID == questionID)
+                markedAnswer = answer;
+        });
+
+        if(markedAnswer){
+            answers = answers.filter(answer => {
+                return answer != markedAnswer;
+            });
+        }
+        else{
+            answeredQuestions.push(questionID);
+        }
+
+        answers.push(newAnswer);
+
+        // TODO: Handle the result and catch errors as necessary
+        const result = addQuestionTag(userID, [answerTag]);
 
         user.answeredQuestions = answeredQuestions;
         user.answers = answers;
