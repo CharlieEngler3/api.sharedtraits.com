@@ -122,102 +122,56 @@ exports.getAnsweredQuestions = (req, res) => {
     }
 };
 
-exports.submitAnswers = (req, res) => {
+exports.submitSelectAnswer = async (req, res) => {
     const userID = req.body.userID;
     const questionID = req.body.questionID;
     const answerIDs = req.body.answerIDs;
 
-    // TODO: Remove async from this function
-    // TODO: Consolidate this into a helper function that's shared by submitSliderAnswer
-    User.findOne({ _id: userID }).then(user => {
-        const answeredQuestions = user.answeredQuestions;
-        let answers = user.answers;
+    const newAnswer = {
+        questionID: questionID,
+        answerIDs: answerIDs
+    };
 
-        const newAnswer = JSON.stringify({
-            questionID: questionID,
-            answerIDs: answerIDs
-        });
-
-        let markedAnswer = null;
-        answers.forEach(answer => {
-            if(JSON.parse(answer).questionID == questionID)
-                markedAnswer = answer;
-        });
-
-        if(markedAnswer){
-            answers = answers.filter(answer => {
-                return answer != markedAnswer;
-            });
-        }
-        else{
-            answeredQuestions.push(questionID);
-        }
-
-        answers.push(newAnswer);
-
-        answers.forEach(answer => {
-            const parsedAnswers = JSON.parse(answer).answerIDs;
-            parsedAnswers.forEach(answerID => {
-                Answer.findOne({ _id: answerID }).then(rawAnswer => {
-                    const result = addQuestionTag(userID, rawAnswer.tags);
-                    // TODO: Handle the result and catch errors as necessary
-                });
-                // TODO: Error handling
-            });
-        });
-
-        user.answeredQuestions = answeredQuestions;
-        user.answers = answers;
-        user.save().then(() => {
-            res.status(200).send("Answers Saved");
-        });
-        // TODO: Error handling
+    // TODO: Make sure I work
+    await submitAnswer(userID, questionID, newAnswer).then(result => {
+        res.status(result.status).send(result.message);
     });
     // TODO: Error handling
 };
 
-exports.submitSliderAnswer = (req, res) => {
+exports.submitSliderAnswer = async (req, res) => {
     const userID = req.body.userID;
     const questionID = req.body.questionID;
     const sliderValue = req.body.value;
     const answerTag = req.body.tag;
 
-    // TODO: Consolidate this into a helper function that's shared by submitAnswers
-    User.findOne({ _id: userID }).then(user => {
-        const answeredQuestions = user.answeredQuestions;
-        let answers = user.answers;
+    const newAnswer = {
+        questionID: questionID,
+        sliderValue: sliderValue,
+        answerTag: answerTag
+    };
 
-        const newAnswer = JSON.stringify({
-            questionID: questionID,
-            sliderValue: sliderValue
-        });
+    // TODO: Make sure I work
+    await submitAnswer(userID, questionID, newAnswer).then(result => {
+        res.status(result.status).send(result.message);
+    });
+    // TODO: Error handling
+};
 
-        let markedAnswer = null;
-        answers.forEach(answer => {
-            if(JSON.parse(answer).questionID == questionID)
-                markedAnswer = answer;
-        });
+exports.submitTextAnswer = async (req, res) => {
+    const userID = req.body.userID;
+    const questionID = req.body.questionID;
+    const answers = req.body.newAnswers;
 
-        if(markedAnswer){
-            answers = answers.filter(answer => {
-                return answer != markedAnswer;
-            });
-        }
-        else{
-            answeredQuestions.push(questionID);
-        }
+    const newAnswer = {
+        questionID: questionID,
+        newAnswers: answers
+    };
 
-        answers.push(newAnswer);
+    // TODO: Add question tags or something else based on these recipes
 
-        // TODO: Handle the result and catch errors as necessary
-        const result = addQuestionTag(userID, [answerTag]);
-
-        user.answeredQuestions = answeredQuestions;
-        user.answers = answers;
-        user.save().then(() => {
-            res.status(200).send("Answers Saved");
-        });
-        // TODO: Error handling
+    await submitAnswer(userID, questionID, newAnswer).then(result => {
+        res.status(result.status).send(result.message);
     });
     // TODO: Error handling
 };
@@ -232,7 +186,7 @@ exports.addQuestionTag = (req, res) => {
     res.status(result.status).send(result.message);
 };
 
-function addQuestionTag(userID, tags){
+const addQuestionTag = (userID, tags) => {
     User.findOne({ _id: userID }).then(user => {
         const updatedQuestionTags = user.questionTags;
 
@@ -252,4 +206,56 @@ function addQuestionTag(userID, tags){
         // TODO: Error handling
     });
     // TODO: Error handling
+}
+
+// TODO: Turn me into a promise
+const submitAnswer = (userID, questionID, newAnswer) => {
+    return new Promise((resolve, reject) => {
+        User.findOne({ _id: userID }).then(user => {
+            const answeredQuestions = user.answeredQuestions;
+            let answers = user.answers;
+
+            let markedAnswer = null;
+            answers.forEach(answer => {
+                if(JSON.parse(answer).questionID == questionID)
+                    markedAnswer = answer;
+            });
+
+            if(markedAnswer){
+                answers = answers.filter(answer => {
+                    return answer != markedAnswer;
+                });
+            }
+            else{
+                answeredQuestions.push(questionID);
+            }
+
+            answers.push(JSON.stringify(newAnswer));
+
+            if(newAnswer.answerIDs){
+                const answerIDs = newAnswer.answerIDs;
+                answerIDs.forEach(answerID => {
+                    Answer.findOne({ _id: answerID }).then(rawAnswer => {
+                        // TODO: Handle the result and catch errors as necessary
+                        const result = addQuestionTag(userID, rawAnswer.tags);
+                    });
+                });
+            }
+            else if(newAnswer.answerTag){
+                // TODO: Handle the result and catch errors as necessary
+                const result = addQuestionTag(userID, [newAnswer.answerTag]);
+            }
+
+            user.answeredQuestions = answeredQuestions;
+            user.answers = answers;
+            user.save().then(() => {
+                resolve({
+                    status: 200,
+                    message: "Answers Saved"
+                });
+            });
+            // TODO: Error handling
+        });
+        // TODO: Error handling
+    });
 }

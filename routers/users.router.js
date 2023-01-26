@@ -8,8 +8,9 @@ router.get('/delete/:id', userController.deleteUser);
 router.get('/tags/:id', userController.getUserQuestionTags);
 
 router.get('/answered-questions/:id', userController.getAnsweredQuestions);
-router.post('/submit-answer', userController.submitAnswers);
+router.post('/submit-select-answer', userController.submitSelectAnswer);
 router.post('/submit-slider-answer', userController.submitSliderAnswer);
+router.post('/submit-text-answer', userController.submitTextAnswer);
 
 router.post('/register', userController.register);
 router.post('/login', userController.login);
