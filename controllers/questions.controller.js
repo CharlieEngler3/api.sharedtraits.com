@@ -35,7 +35,7 @@ exports.addQuestion = async (req, res) => {
     const answers = req.body.answers;
     const answerTags = req.body.answerTags;
 
-    const answerIDs = [];
+    const answerIDs = questionType == "Text Input" ? "placeholder" : [];
 
     for(let i = 0; i < answers.length; i++){
         const newAnswer = new Answer({
