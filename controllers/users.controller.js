@@ -2,6 +2,8 @@ const db = require("../models");
 const User = db.user;
 const Answer = db.answer;
 
+const crypto = require('crypto');
+
 exports.register = async (req, res) => {
     const user = req.body;
 
@@ -14,11 +16,14 @@ exports.register = async (req, res) => {
             answers.push(JSON.stringify(user.answers[i]));
         }
 
-        // TODO: Encrypt the password
+        const salt = crypto.randomBytes(16).toString('hex');
+        const hashedPassword = crypto.pbkdf2Sync(user.password, salt, 1000, 64, `sha512`).toString(`hex`);
+
         const newUser = new User({
             username: user.username,
             email: user.email,
-            password: user.password,
+            password: hashedPassword,
+            salt: salt,
             profileTags: [],
             questionTags: user.questionTags,
             answeredQuestions: user.answeredQuestions,
@@ -56,8 +61,11 @@ exports.login = (req, res) => {
     const password = req.body.password;
 
     User.findOne({ email: email }).then(user => {
+        const salt = user.salt;
+        const hashedPassword = crypto.pbkdf2Sync(password, salt, 1000, 64, `sha512`).toString(`hex`);
+
         // TODO: Compare encrypted passwords
-        if(password == user.password)
+        if(hashedPassword == user.password)
         {
             // TODO: Don't send the entire user, only send some data
             res.status(200).send(user);
