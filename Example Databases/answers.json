@@ -1,0 +1,7945 @@
+[{
+  "_id": {
+    "$oid": "63718bf67ba0d9554717c97e"
+  },
+  "answer": "Running",
+  "tags": [
+    "running",
+    "exercise",
+    "working-out"
+  ]
+},{
+  "_id": {
+    "$oid": "63a67680ee5069e196fc2f80"
+  },
+  "answer": "Music",
+  "tags": [
+    "music"
+  ]
+},{
+  "_id": {
+    "$oid": "63a6768fee5069e196fc2f81"
+  },
+  "answer": "Movie watching",
+  "tags": [
+    "movies"
+  ]
+},{
+  "_id": {
+    "$oid": "63a676a9ee5069e196fc2f82"
+  },
+  "answer": "Gardening",
+  "tags": [
+    "gardening",
+    "outdoors",
+    "environment"
+  ]
+},{
+  "_id": {
+    "$oid": "63a676b7ee5069e196fc2f83"
+  },
+  "answer": "Jewelry",
+  "tags": [
+    "jewelry"
+  ]
+},{
+  "_id": {
+    "$oid": "63a676c2ee5069e196fc2f84"
+  },
+  "answer": "Reading",
+  "tags": [
+    "reading",
+    "literature",
+    "books"
+  ]
+},{
+  "_id": {
+    "$oid": "63a676d0ee5069e196fc2f85"
+  },
+  "answer": "Working out",
+  "tags": [
+    "working-out"
+  ]
+},{
+  "_id": {
+    "$oid": "63a676daee5069e196fc2f86"
+  },
+  "answer": "Fishing",
+  "tags": [
+    "fishing",
+    "outdoors"
+  ]
+},{
+  "_id": {
+    "$oid": "63a676e5ee5069e196fc2f87"
+  },
+  "answer": "Team sports",
+  "tags": [
+    "sports",
+    "exercise"
+  ]
+},{
+  "_id": {
+    "$oid": "63a676f1ee5069e196fc2f88"
+  },
+  "answer": "Video games",
+  "tags": [
+    "video-games"
+  ]
+},{
+  "_id": {
+    "$oid": "63a67707ee5069e196fc2f89"
+  },
+  "answer": "Dancing",
+  "tags": [
+    "dancing"
+  ]
+},{
+  "_id": {
+    "$oid": "63a67717ee5069e196fc2f8a"
+  },
+  "answer": "Painting",
+  "tags": [
+    "painting",
+    "art"
+  ]
+},{
+  "_id": {
+    "$oid": "63a67725ee5069e196fc2f8b"
+  },
+  "answer": "Volunteering",
+  "tags": [
+    "volunteering"
+  ]
+},{
+  "_id": {
+    "$oid": "63a67734ee5069e196fc2f8c"
+  },
+  "answer": "Writing",
+  "tags": [
+    "writing",
+    "literature"
+  ]
+},{
+  "_id": {
+    "$oid": "63a6773fee5069e196fc2f8d"
+  },
+  "answer": "Cooking",
+  "tags": [
+    "cooking",
+    "baking",
+    "food"
+  ]
+},{
+  "_id": {
+    "$oid": "63a67751ee5069e196fc2f8e"
+  },
+  "answer": "Collecting",
+  "tags": [
+    "collecting"
+  ]
+},{
+  "_id": {
+    "$oid": "63a67761ee5069e196fc2f8f"
+  },
+  "answer": "Skiing/Snowboarding",
+  "tags": [
+    "skiing",
+    "snowboarding",
+    "winter-sports",
+    "sports"
+  ]
+},{
+  "_id": {
+    "$oid": "63a6779aee5069e196fc2f90"
+  },
+  "answer": "Socializing",
+  "tags": [
+    "socializing"
+  ]
+},{
+  "_id": {
+    "$oid": "63a677a4ee5069e196fc2f91"
+  },
+  "answer": "Shopping",
+  "tags": [
+    "shopping"
+  ]
+},{
+  "_id": {
+    "$oid": "63a677adee5069e196fc2f92"
+  },
+  "answer": "Television",
+  "tags": [
+    "television",
+    "tv-shows"
+  ]
+},{
+  "_id": {
+    "$oid": "63a677b9ee5069e196fc2f93"
+  },
+  "answer": "Housework",
+  "tags": [
+    "housework",
+    "home-improvement"
+  ]
+},{
+  "_id": {
+    "$oid": "63a677c8ee5069e196fc2f94"
+  },
+  "answer": "Bicycling",
+  "tags": [
+    "bicycling",
+    "outdoors",
+    "exercise"
+  ]
+},{
+  "_id": {
+    "$oid": "63a677d6ee5069e196fc2f95"
+  },
+  "answer": "Dining Out",
+  "tags": [
+    "dining-out",
+    "restaurants"
+  ]
+},{
+  "_id": {
+    "$oid": "63a677e6ee5069e196fc2f96"
+  },
+  "answer": "Watching sports",
+  "tags": [
+    "sports"
+  ]
+},{
+  "_id": {
+    "$oid": "63a677f1ee5069e196fc2f97"
+  },
+  "answer": "Traveling",
+  "tags": [
+    "traveling"
+  ]
+},{
+  "_id": {
+    "$oid": "63a677faee5069e196fc2f98"
+  },
+  "answer": "Yoga",
+  "tags": [
+    "yoga",
+    "exercise",
+    "working-out"
+  ]
+},{
+  "_id": {
+    "$oid": "63a67805ee5069e196fc2f99"
+  },
+  "answer": "Walking",
+  "tags": [
+    "walking",
+    "exercise",
+    "outdoors"
+  ]
+},{
+  "_id": {
+    "$oid": "63a67810ee5069e196fc2f9a"
+  },
+  "answer": "Woodworking",
+  "tags": [
+    "woodworking"
+  ]
+},{
+  "_id": {
+    "$oid": "63a6781dee5069e196fc2f9b"
+  },
+  "answer": "Religion",
+  "tags": [
+    "religion"
+  ]
+},{
+  "_id": {
+    "$oid": "63bddc172acfbf8f894ac3bd"
+  },
+  "answer": "Going outdoors",
+  "tags": [
+    "outdoors"
+  ]
+},{
+  "_id": {
+    "$oid": "63c32cc4209248f8b02a07d7"
+  },
+  "answer": "Sprinting",
+  "tags": [
+    "running-sprinting"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735364184"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735364184"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32cc4209248f8b02a07d9"
+  },
+  "answer": "Medium distance",
+  "tags": [
+    "running-medium-distance"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735364195"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735364195"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32cc4209248f8b02a07db"
+  },
+  "answer": "Specialized training",
+  "tags": [
+    "running-specialized-training"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735364199"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735364199"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32cc4209248f8b02a07dd"
+  },
+  "answer": "Long distance",
+  "tags": [
+    "running-long-distance"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735364202"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735364202"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32cc4209248f8b02a07df"
+  },
+  "answer": "Ultra distance",
+  "tags": [
+    "running-ultra-distance"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735364204"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735364204"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32cc4209248f8b02a07e1"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735364210"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735364210"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32ea8209248f8b02a07e5"
+  },
+  "answer": "Road",
+  "tags": [
+    "running-road"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735848926"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735848926"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32ea8209248f8b02a07e7"
+  },
+  "answer": "Track",
+  "tags": [
+    "running-track"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735848931"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735848931"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32ea8209248f8b02a07e9"
+  },
+  "answer": "Man-made incline",
+  "tags": [
+    "running-man-made-incline"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735848936"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735848936"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32ea8209248f8b02a07eb"
+  },
+  "answer": "Flat trail",
+  "tags": [
+    "running-flat-trail"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735848941"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735848941"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32ea8209248f8b02a07ed"
+  },
+  "answer": "Flat off-trail",
+  "tags": [
+    "running-flat-off-trail"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735848946"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735848946"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32ea8209248f8b02a07ef"
+  },
+  "answer": "Incline trail",
+  "tags": [
+    "running-incline-trail"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735848951"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735848951"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32ea8209248f8b02a07f1"
+  },
+  "answer": "Incline off-trail",
+  "tags": [
+    "running-incline-off-trail"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735848954"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735848954"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c32ea8209248f8b02a07f3"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673735848958"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673735848958"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a07f7"
+  },
+  "answer": "Bodybuilding",
+  "tags": [
+    "exercise-bodybuilding"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256879"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256879"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a07f9"
+  },
+  "answer": "Hypertrophy training",
+  "tags": [
+    "exercise-hypertrophy-training"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256882"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256882"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a07fb"
+  },
+  "answer": "Strength training",
+  "tags": [
+    "exercise-strength-training"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256885"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256885"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a07fd"
+  },
+  "answer": "Powerlifting",
+  "tags": [
+    "exercise-powerlifting"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256888"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256888"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a07ff"
+  },
+  "answer": "Powerbuilding",
+  "tags": [
+    "exercise-powerbuilding"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256891"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256891"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a0801"
+  },
+  "answer": "Cardio",
+  "tags": [
+    "exercise-cardio"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256894"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256894"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a0803"
+  },
+  "answer": "High intensity training",
+  "tags": [
+    "exercise-high-intensity-training"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256897"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256897"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a0805"
+  },
+  "answer": "Low intensity training",
+  "tags": [
+    "exercise-low-intensity-training"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256900"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256900"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a0807"
+  },
+  "answer": "Bodyweight training",
+  "tags": [
+    "exercise-bodyweight-training"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256903"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256903"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c33040209248f8b02a0809"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736256906"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736256906"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a080d"
+  },
+  "answer": "Classical",
+  "tags": [
+    "music-classical"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627665"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627665"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a080f"
+  },
+  "answer": "Experimental",
+  "tags": [
+    "music-experimental"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627669"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627669"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0811"
+  },
+  "answer": "Blues",
+  "tags": [
+    "music-blues"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627673"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627673"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0813"
+  },
+  "answer": "Country",
+  "tags": [
+    "music-country"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627676"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627676"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0815"
+  },
+  "answer": "Easy listening",
+  "tags": [
+    "music-easy-listening"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627679"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0817"
+  },
+  "answer": "Electronic",
+  "tags": [
+    "music-electronic"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627682"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0819"
+  },
+  "answer": "Folk",
+  "tags": [
+    "music-folk"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627685"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627685"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a081b"
+  },
+  "answer": "Hip hop",
+  "tags": [
+    "music-hip-hop"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627688"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a081d"
+  },
+  "answer": "Jazz",
+  "tags": [
+    "music-jazz"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627690"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a081f"
+  },
+  "answer": "Pop",
+  "tags": [
+    "music-pop"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627694"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0821"
+  },
+  "answer": "R&B and Soul",
+  "tags": [
+    "music-rnb-and-soul"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627696"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0823"
+  },
+  "answer": "Rock",
+  "tags": [
+    "music-rock"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627699"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627699"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0825"
+  },
+  "answer": "Metal",
+  "tags": [
+    "music-metal"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627702"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627702"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0827"
+  },
+  "answer": "Punk",
+  "tags": [
+    "music-punk"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627705"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627705"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c331b3209248f8b02a0829"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673736627707"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673736627707"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a082d"
+  },
+  "answer": "Action",
+  "tags": [
+    "movies-action"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050650"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050650"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a082f"
+  },
+  "answer": "Comedy",
+  "tags": [
+    "movies-comedy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050653"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050653"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a0831"
+  },
+  "answer": "Crime",
+  "tags": [
+    "movies-crime"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050657"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050657"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a0833"
+  },
+  "answer": "Drama",
+  "tags": [
+    "movies-drama"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050660"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050660"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a0835"
+  },
+  "answer": "Experimental",
+  "tags": [
+    "movies-experimental"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050662"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050662"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a0837"
+  },
+  "answer": "Fantasy",
+  "tags": [
+    "movies-fantasy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050664"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050664"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a0839"
+  },
+  "answer": "Historical",
+  "tags": [
+    "movies-historical"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050666"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050666"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a083b"
+  },
+  "answer": "Horror",
+  "tags": [
+    "movies-horror"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050668"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050668"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a083d"
+  },
+  "answer": "Romance",
+  "tags": [
+    "movies-romance"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050670"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050670"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a083f"
+  },
+  "answer": "Science fiction",
+  "tags": [
+    "movies-science-fiction"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050672"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050672"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a0841"
+  },
+  "answer": "Thriller",
+  "tags": [
+    "movies-thriller"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050675"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050675"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a0843"
+  },
+  "answer": "Western",
+  "tags": [
+    "movies-western"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050677"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3335a209248f8b02a0845"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737050680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737050680"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c334bb209248f8b02a0849"
+  },
+  "answer": "Hiking",
+  "tags": [
+    "outdoors-hiking"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737403024"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737403024"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c334bb209248f8b02a084b"
+  },
+  "answer": "Bicycling",
+  "tags": [
+    "outdoors-bicycling",
+    "bicycling"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737403027"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737403027"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c334bb209248f8b02a084d"
+  },
+  "answer": "Camping",
+  "tags": [
+    "outdoors-camping"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737403030"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737403030"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c334bb209248f8b02a084f"
+  },
+  "answer": "Wildlife viewing",
+  "tags": [
+    "outdoors-wildlife-viewing"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737403033"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737403033"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c334bb209248f8b02a0851"
+  },
+  "answer": "Hunting",
+  "tags": [
+    "outdoors-hunting"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737403035"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737403035"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c334bb209248f8b02a0853"
+  },
+  "answer": "Birdwatching",
+  "tags": [
+    "outdoors-birdwatching"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737403037"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737403037"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c334bb209248f8b02a0855"
+  },
+  "answer": "Kayaking",
+  "tags": [
+    "outdoors-kayaking"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737403040"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737403040"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c334bb209248f8b02a0857"
+  },
+  "answer": "Swimming",
+  "tags": [
+    "outdoors-swimming"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737403042"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737403042"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c334bb209248f8b02a0859"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673737403044"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673737403044"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34262209248f8b02a085d"
+  },
+  "answer": "Yes",
+  "tags": [
+    "environmentally-conscious"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673740898684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673740898684"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34262209248f8b02a085f"
+  },
+  "answer": "No",
+  "tags": [
+    "environmentally-unconscious"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673740898687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673740898687"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34311209248f8b02a0863"
+  },
+  "answer": "Yes",
+  "tags": [
+    "jewelry-diy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741073676"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741073676"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34311209248f8b02a0865"
+  },
+  "answer": "No",
+  "tags": [
+    "jewelry-collect"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741073677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741073677"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a0869"
+  },
+  "answer": "Romance",
+  "tags": [
+    "literature-romance"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383311"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383311"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a086b"
+  },
+  "answer": "Action/Adventure",
+  "tags": [
+    "literature-action-adventure"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383313"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383313"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a086d"
+  },
+  "answer": "Science Fiction",
+  "tags": [
+    "literature-science-fiction"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383317"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383317"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a086f"
+  },
+  "answer": "Fantasy",
+  "tags": [
+    "literature-fantasy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383319"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383319"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a0871"
+  },
+  "answer": "Young Adult",
+  "tags": [
+    "literature-young-adult"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383320"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383320"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a0873"
+  },
+  "answer": "Horror",
+  "tags": [
+    "literature-horror"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383322"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383322"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a0875"
+  },
+  "answer": "Mystery/Crime",
+  "tags": [
+    "literature-mystery-crime"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383325"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383325"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a0877"
+  },
+  "answer": "Suspense/Thriller",
+  "tags": [
+    "literature-suspense-thriller"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383327"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383327"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a0879"
+  },
+  "answer": "Historical",
+  "tags": [
+    "literature-historical"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383331"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383331"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34447209248f8b02a087b"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741383334"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741383334"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c344a8209248f8b02a087f"
+  },
+  "answer": "Yes",
+  "tags": [
+    "books-collect"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741480250"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741480250"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c344a8209248f8b02a0881"
+  },
+  "answer": "No",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741480252"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741480252"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34627209248f8b02a0885"
+  },
+  "answer": "Spin",
+  "tags": [
+    "fishing-spin"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741863455"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741863455"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34627209248f8b02a0887"
+  },
+  "answer": "Fly",
+  "tags": [
+    "fishing-fly"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741863458"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741863458"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34627209248f8b02a0889"
+  },
+  "answer": "Subsistence",
+  "tags": [
+    "fishing-subsistence"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741863460"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741863460"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34627209248f8b02a088b"
+  },
+  "answer": "Trolling",
+  "tags": [
+    "fishing-trolling"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741863462"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741863462"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34627209248f8b02a088d"
+  },
+  "answer": "Jigging",
+  "tags": [
+    "fishing-jigging"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741863464"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741863464"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34627209248f8b02a088f"
+  },
+  "answer": "Ice",
+  "tags": [
+    "fishing-ice"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741863466"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741863466"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34627209248f8b02a0891"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673741863470"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673741863470"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c346d4209248f8b02a0895"
+  },
+  "answer": "Fresh water",
+  "tags": [
+    "fishing-fresh-water"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742036112"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742036112"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c346d4209248f8b02a0897"
+  },
+  "answer": "Salt water",
+  "tags": [
+    "fishing-salt-water"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742036115"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742036115"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c346d4209248f8b02a0899"
+  },
+  "answer": "Both",
+  "tags": [
+    "fishing-fresh-water",
+    "fishing-salt-water"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742036117"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742036117"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a089d"
+  },
+  "answer": "NFL",
+  "tags": [
+    "sports-nfl"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872869"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872869"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a089f"
+  },
+  "answer": "MLB",
+  "tags": [
+    "sports-mlb"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872872"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08a1"
+  },
+  "answer": "NBA",
+  "tags": [
+    "sports-nba"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872874"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08a3"
+  },
+  "answer": "EPL",
+  "tags": [
+    "sports-epl"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872878"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872878"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08a5"
+  },
+  "answer": "NHL",
+  "tags": [
+    "sports-nhl"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872880"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872880"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08a7"
+  },
+  "answer": "La Liga",
+  "tags": [
+    "sports-la-liga"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872882"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872882"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08a9"
+  },
+  "answer": "Bundesliga",
+  "tags": [
+    "sports-bundesliga"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872884"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872884"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08ab"
+  },
+  "answer": "Serie A",
+  "tags": [
+    "sports-serie-a"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872886"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872886"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08ad"
+  },
+  "answer": "Ligue 1",
+  "tags": [
+    "sports-ligue-1"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872889"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872889"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08af"
+  },
+  "answer": "MLS",
+  "tags": [
+    "sports-mls"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872891"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872891"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08b1"
+  },
+  "answer": "NPB",
+  "tags": [
+    "sports-npb"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872893"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872893"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08b3"
+  },
+  "answer": "IPL",
+  "tags": [
+    "sports-ipl"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872897"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872897"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08b5"
+  },
+  "answer": "AFL",
+  "tags": [
+    "sports-afl"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872899"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872899"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08b7"
+  },
+  "answer": "CSL",
+  "tags": [
+    "sports-csl"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872901"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872901"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08b9"
+  },
+  "answer": "RPL",
+  "tags": [
+    "sports-rpl"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872903"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872903"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08bb"
+  },
+  "answer": "J1 League",
+  "tags": [
+    "sports-j1-league"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872905"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872905"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08bd"
+  },
+  "answer": "KHL",
+  "tags": [
+    "sports-khl"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872908"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872908"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08bf"
+  },
+  "answer": "Brasileirão",
+  "tags": [
+    "sports-brasileirao"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872911"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872911"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08c1"
+  },
+  "answer": "NRL",
+  "tags": [
+    "sports-nrl"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872913"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c34a18209248f8b02a08c3"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673742872916"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673742872916"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08c7"
+  },
+  "answer": "Shooters",
+  "tags": [
+    "video-games-shooters"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927633"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927633"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08c9"
+  },
+  "answer": "Fighting",
+  "tags": [
+    "video-games-fighting"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927635"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927635"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08cb"
+  },
+  "answer": "Arcade",
+  "tags": [
+    "video-games-arcade"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927636"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927636"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08cd"
+  },
+  "answer": "Platformer",
+  "tags": [
+    "video-games-platformer"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927638"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927638"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08cf"
+  },
+  "answer": "Beat 'em up",
+  "tags": [
+    "video-games-beat-em-up"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927639"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927639"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08d1"
+  },
+  "answer": "Stealth",
+  "tags": [
+    "video-games-stealth"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927640"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927640"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08d3"
+  },
+  "answer": "Horror",
+  "tags": [
+    "video-games-horror"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927641"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927641"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08d5"
+  },
+  "answer": "Action RPG",
+  "tags": [
+    "video-games-action-rpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927641"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927641"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08d7"
+  },
+  "answer": "MMORPG",
+  "tags": [
+    "video-games-mmorpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927642"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927642"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08d9"
+  },
+  "answer": "Tactical RPG",
+  "tags": [
+    "video-games-tactical-rpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927643"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927643"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08db"
+  },
+  "answer": "Sandbox RPG",
+  "tags": [
+    "video-games-sandbox-rpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927644"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927644"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08dd"
+  },
+  "answer": "Multiplayer online battle arena",
+  "tags": [
+    "video-games-multiplayer-online-battle-arena"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927645"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927645"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08df"
+  },
+  "answer": "Real-time strategy",
+  "tags": [
+    "video-games-real-time-strategy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927646"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927646"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08e1"
+  },
+  "answer": "Turn-based strategy",
+  "tags": [
+    "video-games-turn-based-strategy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927646"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927646"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08e3"
+  },
+  "answer": "Tower defense",
+  "tags": [
+    "video-games-tower-defense"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927647"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927647"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08e5"
+  },
+  "answer": "Card and board games",
+  "tags": [
+    "video-games-card-and-board-games"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927648"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927648"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08e7"
+  },
+  "answer": "Construction simulation",
+  "tags": [
+    "video-games-construction-simulation"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927648"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927648"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08e9"
+  },
+  "answer": "Management",
+  "tags": [
+    "video-games-management"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927649"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927649"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08eb"
+  },
+  "answer": "Life simulation",
+  "tags": [
+    "video-games-life-simulation"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927652"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927652"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08ed"
+  },
+  "answer": "Driving simulation",
+  "tags": [
+    "video-games-driving-simulation"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927653"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927653"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08ef"
+  },
+  "answer": "Puzzle",
+  "tags": [
+    "video-games-puzzle"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927654"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927654"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08f1"
+  },
+  "answer": "Sports",
+  "tags": [
+    "video-games-sports"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927655"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927655"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4156f209248f8b02a08f3"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673794927655"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673794927655"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a08f7"
+  },
+  "answer": "Zydeco",
+  "tags": [
+    "dancing-zydeco"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950508"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950508"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a08f9"
+  },
+  "answer": "Ballroom",
+  "tags": [
+    "dancing-ballroom"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950509"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950509"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a08fb"
+  },
+  "answer": "Ballet",
+  "tags": [
+    "dancing-ballet"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950511"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950511"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a08fd"
+  },
+  "answer": "Tap",
+  "tags": [
+    "dancing-tap"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950513"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950513"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a08ff"
+  },
+  "answer": "Hip hop",
+  "tags": [
+    "dancing-hip-hop"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950514"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950514"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0901"
+  },
+  "answer": "Lyrical",
+  "tags": [
+    "dancing-lyrical"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950515"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950515"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0903"
+  },
+  "answer": "Irish",
+  "tags": [
+    "dancing-irish"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950516"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950516"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0905"
+  },
+  "answer": "Shag",
+  "tags": [
+    "dancing-shag"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950516"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950516"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0907"
+  },
+  "answer": "Latin",
+  "tags": [
+    "dancing-latin"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950517"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950517"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0909"
+  },
+  "answer": "Latin ballroom",
+  "tags": [
+    "dancing-latin-ballroom"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950518"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950518"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a090b"
+  },
+  "answer": "West Coast swing",
+  "tags": [
+    "dancing-west-coast-swing"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950520"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950520"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a090d"
+  },
+  "answer": "Argentine tango",
+  "tags": [
+    "dancing-argentine-tango"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950521"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950521"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a090f"
+  },
+  "answer": "Hustle",
+  "tags": [
+    "dancing-hustle"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950522"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950522"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0911"
+  },
+  "answer": "Nightclub two step",
+  "tags": [
+    "dancing-nightclub-two-step"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950523"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950523"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0913"
+  },
+  "answer": "Country western",
+  "tags": [
+    "dancing-country-western"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950525"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950525"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0915"
+  },
+  "answer": "Lindy hop",
+  "tags": [
+    "dancing-lindy-hop"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950526"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950526"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0917"
+  },
+  "answer": "Jitterbug",
+  "tags": [
+    "dancing-jitterbug"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950526"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950526"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0919"
+  },
+  "answer": "Salsa",
+  "tags": [
+    "dancing-salsa"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950527"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950527"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a091b"
+  },
+  "answer": "Bachata",
+  "tags": [
+    "dancing-bachata"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950528"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950528"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a091d"
+  },
+  "answer": "Waltz",
+  "tags": [
+    "dancing-waltz"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950529"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950529"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a091f"
+  },
+  "answer": "Swing",
+  "tags": [
+    "dancing-swing"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950530"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950530"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0921"
+  },
+  "answer": "Viennese waltz",
+  "tags": [
+    "dancing-viennese-waltz"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950531"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950531"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0923"
+  },
+  "answer": "Foxtrot",
+  "tags": [
+    "dancing-foxtrot"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950534"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950534"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0925"
+  },
+  "answer": "Tango",
+  "tags": [
+    "dancing-tango"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950535"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950535"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0927"
+  },
+  "answer": "Cha Cha",
+  "tags": [
+    "dancing-cha-cha"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0929"
+  },
+  "answer": "Rumba",
+  "tags": [
+    "dancing-rumba"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950537"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950537"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a092b"
+  },
+  "answer": "Mambo",
+  "tags": [
+    "dancing-mambo"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950537"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950537"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a092d"
+  },
+  "answer": "Bolero",
+  "tags": [
+    "dancing-bolero"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950539"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950539"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a092f"
+  },
+  "answer": "Samba",
+  "tags": [
+    "dancing-samba"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950539"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950539"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0931"
+  },
+  "answer": "East Coast swing",
+  "tags": [
+    "dancing-east-coast-swing"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950540"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950540"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0933"
+  },
+  "answer": "Merengue",
+  "tags": [
+    "dancing-merengue"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950541"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950541"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0935"
+  },
+  "answer": "Balboa",
+  "tags": [
+    "dancing-balboa"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950542"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950542"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0937"
+  },
+  "answer": "Charleston",
+  "tags": [
+    "dancing-charleston"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950542"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950542"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0939"
+  },
+  "answer": "Country two step",
+  "tags": [
+    "dancing-country-two-step"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950543"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950543"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a093b"
+  },
+  "answer": "Jive",
+  "tags": [
+    "dancing-jive"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950544"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a093d"
+  },
+  "answer": "Polka",
+  "tags": [
+    "dancing-polka"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950545"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a093f"
+  },
+  "answer": "Cajun",
+  "tags": [
+    "dancing-cajun"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950545"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0941"
+  },
+  "answer": "Quickstep",
+  "tags": [
+    "dancing-quickstep"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950546"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950546"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0943"
+  },
+  "answer": "Zumba fitness",
+  "tags": [
+    "dancing-zumba-fitness"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950547"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950547"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0945"
+  },
+  "answer": "Wedding",
+  "tags": [
+    "dancing-wedding"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950548"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950548"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0947"
+  },
+  "answer": "Pole",
+  "tags": [
+    "dancing-pole"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950549"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950549"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4196e209248f8b02a0949"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673795950549"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673795950549"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41a69209248f8b02a094d"
+  },
+  "answer": "Oil",
+  "tags": [
+    "painting-oil"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796201737"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796201737"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41a69209248f8b02a094f"
+  },
+  "answer": "Acrylic",
+  "tags": [
+    "painting-acrylic"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796201739"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796201739"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41a69209248f8b02a0951"
+  },
+  "answer": "Watercolor",
+  "tags": [
+    "painting-watercolor"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796201742"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796201742"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41a69209248f8b02a0953"
+  },
+  "answer": "Gouache",
+  "tags": [
+    "painting-gouache"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796201743"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796201743"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41a69209248f8b02a0955"
+  },
+  "answer": "Pastel",
+  "tags": [
+    "painting-pastel"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796201745"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796201745"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41a69209248f8b02a0957"
+  },
+  "answer": "Encaustic",
+  "tags": [
+    "painting-encaustic"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796201746"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796201746"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41a69209248f8b02a0959"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796201748"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796201748"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41ae3209248f8b02a095d"
+  },
+  "answer": "Yes",
+  "tags": [
+    "art-collect"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796323173"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796323173"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41ae3209248f8b02a095f"
+  },
+  "answer": "No",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796323175"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796323175"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41af8209248f8b02a0963"
+  },
+  "answer": "Yes",
+  "tags": [
+    "art-create"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796344557"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796344557"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41af8209248f8b02a0965"
+  },
+  "answer": "No",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796344559"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796344559"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41b11209248f8b02a0969"
+  },
+  "answer": "Yes",
+  "tags": [
+    "art-view"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796369770"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796369770"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41b11209248f8b02a096b"
+  },
+  "answer": "No",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796369771"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796369771"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41bf3209248f8b02a096f"
+  },
+  "answer": "Alpine",
+  "tags": [
+    "skiing-alpine"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796595606"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796595606"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41bf3209248f8b02a0971"
+  },
+  "answer": "Backcountry",
+  "tags": [
+    "skiing-backcountry"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796595607"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796595607"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41bf3209248f8b02a0973"
+  },
+  "answer": "Freestyle",
+  "tags": [
+    "skiing-freestyle"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796595608"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796595608"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41bf3209248f8b02a0975"
+  },
+  "answer": "Racing",
+  "tags": [
+    "skiing-racing"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796595609"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796595609"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41bf3209248f8b02a0977"
+  },
+  "answer": "Jumping",
+  "tags": [
+    "skiing-jumping"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796595610"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796595610"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41bf3209248f8b02a0979"
+  },
+  "answer": "Telemark",
+  "tags": [
+    "skiing-telemark"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796595611"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796595611"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41bf3209248f8b02a097b"
+  },
+  "answer": "Cross-country",
+  "tags": [
+    "skiing-cross-country"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796595612"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796595612"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41bf3209248f8b02a097d"
+  },
+  "answer": "Adaptive",
+  "tags": [
+    "skiing-adaptive"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796595612"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796595612"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41cc0209248f8b02a0981"
+  },
+  "answer": "Freeriding",
+  "tags": [
+    "snowboarding-freeriding"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796800110"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796800110"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41cc0209248f8b02a0983"
+  },
+  "answer": "Freestyle",
+  "tags": [
+    "snowboarding-freestyle"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796800112"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796800112"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41cc0209248f8b02a0985"
+  },
+  "answer": "Free carve",
+  "tags": [
+    "snowboarding-free-carve"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796800113"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796800113"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41cc0209248f8b02a0987"
+  },
+  "answer": "Splitboarding",
+  "tags": [
+    "snowboarding-splitboarding"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796800114"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796800114"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41d37209248f8b02a098b"
+  },
+  "answer": "Ice skating",
+  "tags": [
+    "winter-sports-ice-skating"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796919851"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796919851"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41d37209248f8b02a098d"
+  },
+  "answer": "Sledding",
+  "tags": [
+    "winter-sports-sledding"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796919853"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796919853"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41d37209248f8b02a098f"
+  },
+  "answer": "Snowmobiling",
+  "tags": [
+    "winter-sports-snowmobiling"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796919854"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796919854"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41d37209248f8b02a0991"
+  },
+  "answer": "Team sports",
+  "tags": [
+    "winter-sports-team-sports"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796919855"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796919855"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41d37209248f8b02a0993"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673796919856"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673796919856"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a0997"
+  },
+  "answer": "Fashion",
+  "tags": [
+    "shopping-fashion"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586529"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586529"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a0999"
+  },
+  "answer": "Electronics",
+  "tags": [
+    "shopping-electronics"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586531"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586531"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a099b"
+  },
+  "answer": "Toys",
+  "tags": [
+    "shopping-toys"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586531"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586531"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a099d"
+  },
+  "answer": "Hobby",
+  "tags": [
+    "shopping-hobby"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586532"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586532"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a099f"
+  },
+  "answer": "DIY",
+  "tags": [
+    "shopping-diy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586533"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586533"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a09a1"
+  },
+  "answer": "Furniture",
+  "tags": [
+    "shopping-furniture"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586536"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a09a3"
+  },
+  "answer": "Beauty",
+  "tags": [
+    "shopping-beauty"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586537"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586537"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a09a5"
+  },
+  "answer": "Health and personal care",
+  "tags": [
+    "shopping-health-and-personal-care"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586538"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586538"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a09a7"
+  },
+  "answer": "Household care",
+  "tags": [
+    "shopping-household-care"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586538"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586538"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c41fd2209248f8b02a09a9"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673797586539"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673797586539"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83e5"
+  },
+  "answer": "Action",
+  "tags": [
+    "television-action"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777715"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777715"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83e7"
+  },
+  "answer": "Adventure",
+  "tags": [
+    "television-adventure"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777727"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777727"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83e9"
+  },
+  "answer": "Animated",
+  "tags": [
+    "television-animated"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777732"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777732"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83eb"
+  },
+  "answer": "Anthology",
+  "tags": [
+    "television-anthology"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777735"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777735"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83ed"
+  },
+  "answer": "Art",
+  "tags": [
+    "television-art"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777738"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777738"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83ef"
+  },
+  "answer": "Children's",
+  "tags": [
+    "television-childrens"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777742"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777742"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83f1"
+  },
+  "answer": "Cooking",
+  "tags": [
+    "television-cooking"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777746"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777746"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83f3"
+  },
+  "answer": "Daytime",
+  "tags": [
+    "television-daytime"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777750"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777750"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83f5"
+  },
+  "answer": "Drama",
+  "tags": [
+    "television-drama"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777754"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777754"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83f7"
+  },
+  "answer": "Documentary",
+  "tags": [
+    "television-documentary"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777758"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777758"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83f9"
+  },
+  "answer": "Educational",
+  "tags": [
+    "television-educational"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777762"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83fb"
+  },
+  "answer": "Factual",
+  "tags": [
+    "television-factual"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777765"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777765"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83fd"
+  },
+  "answer": "Fantasy",
+  "tags": [
+    "television-fantasy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777769"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777769"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b83ff"
+  },
+  "answer": "Game show",
+  "tags": [
+    "television-game-show"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777772"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777772"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8401"
+  },
+  "answer": "Late night",
+  "tags": [
+    "television-late-night"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777775"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777775"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8403"
+  },
+  "answer": "Music",
+  "tags": [
+    "television-music"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777777"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8405"
+  },
+  "answer": "News",
+  "tags": [
+    "television-news"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777780"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777780"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8407"
+  },
+  "answer": "Police/Detective",
+  "tags": [
+    "television-police-detective"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777783"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777783"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8409"
+  },
+  "answer": "Prime-time",
+  "tags": [
+    "television-prime-time"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777785"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777785"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b840b"
+  },
+  "answer": "Public affairs",
+  "tags": [
+    "television-public-affairs"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777789"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777789"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b840d"
+  },
+  "answer": "Reality",
+  "tags": [
+    "television-reality"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777792"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777792"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b840f"
+  },
+  "answer": "Religious",
+  "tags": [
+    "television-religious"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777794"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777794"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8411"
+  },
+  "answer": "Science fiction",
+  "tags": [
+    "television-science-fiction"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777797"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777797"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8413"
+  },
+  "answer": "Serial",
+  "tags": [
+    "television-serial"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777799"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777799"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8415"
+  },
+  "answer": "Comedy",
+  "tags": [
+    "television-comedy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777801"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777801"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8417"
+  },
+  "answer": "Soap opera",
+  "tags": [
+    "television-soap-opera"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777803"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777803"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8419"
+  },
+  "answer": "Sports",
+  "tags": [
+    "television-sports"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777806"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777806"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b841b"
+  },
+  "answer": "Telenovela",
+  "tags": [
+    "television-telenovela"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777808"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777808"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b841d"
+  },
+  "answer": "Infomercials",
+  "tags": [
+    "television-infomercials"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777811"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777811"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b841f"
+  },
+  "answer": "Variety",
+  "tags": [
+    "television-variety"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777814"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777814"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8421"
+  },
+  "answer": "Western",
+  "tags": [
+    "television-western"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777817"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777817"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45f1186006ac9786b8423"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673813777820"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673813777820"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4609986006ac9786b8427"
+  },
+  "answer": "Mountain",
+  "tags": [
+    "bicycling-mountain"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814169189"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814169189"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4609986006ac9786b8429"
+  },
+  "answer": "Road",
+  "tags": [
+    "bicycling-road"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814169192"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814169192"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4609986006ac9786b842b"
+  },
+  "answer": "Hybrid/Comfort",
+  "tags": [
+    "bicycling-hybrid-comfort"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814169194"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814169194"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4609986006ac9786b842d"
+  },
+  "answer": "Fat tire",
+  "tags": [
+    "bicycling-fat-tire"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814169196"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814169196"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4609986006ac9786b842f"
+  },
+  "answer": "Gravel",
+  "tags": [
+    "bicycling-gravel"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814169199"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814169199"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4609986006ac9786b8431"
+  },
+  "answer": "E-biking",
+  "tags": [
+    "bicycling-e-biking"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814169201"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814169201"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4609986006ac9786b8433"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814169204"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814169204"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4614686006ac9786b8437"
+  },
+  "answer": "Africa",
+  "tags": [
+    "traveling-africa"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814342784"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814342784"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4614686006ac9786b8439"
+  },
+  "answer": "Antarctica",
+  "tags": [
+    "traveling-antarctica"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814342788"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814342788"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4614686006ac9786b843b"
+  },
+  "answer": "Asia",
+  "tags": [
+    "traveling-asia"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814342792"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814342792"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4614686006ac9786b843d"
+  },
+  "answer": "Australia",
+  "tags": [
+    "traveling-australia"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814342796"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814342796"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4614686006ac9786b843f"
+  },
+  "answer": "Europe",
+  "tags": [
+    "traveling-europe"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814342798"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814342798"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4614686006ac9786b8441"
+  },
+  "answer": "North America",
+  "tags": [
+    "traveling-north-america"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814342801"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814342801"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4614686006ac9786b8443"
+  },
+  "answer": "South America",
+  "tags": [
+    "traveling-south-america"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673814342804"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673814342804"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8447"
+  },
+  "answer": "Pyramids of Giza",
+  "tags": [
+    "traveling-pyramids-of-giza"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125687"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8449"
+  },
+  "answer": "Great Wall of China",
+  "tags": [
+    "traveling-great-wall-of-china"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125691"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b844b"
+  },
+  "answer": "Taj Mahal",
+  "tags": [
+    "traveling-taj-mahal"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125693"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b844d"
+  },
+  "answer": "Serengeti National Park",
+  "tags": [
+    "traveling-serengeti-national-park"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125696"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b844f"
+  },
+  "answer": "Galapagos Islands",
+  "tags": [
+    "traveling-galapagos-islands"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125699"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125699"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8451"
+  },
+  "answer": "Grand Canyon",
+  "tags": [
+    "traveling-grand-canyon"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125701"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125701"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8453"
+  },
+  "answer": "Machu Picchu",
+  "tags": [
+    "traveling-machu-picchu"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125703"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125703"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8455"
+  },
+  "answer": "Iguazu Falls",
+  "tags": [
+    "traveling-iguazu-falls"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125705"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125705"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8457"
+  },
+  "answer": "Bali, Indonesia",
+  "tags": [
+    "traveling-bali-indonesia"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125707"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125707"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8459"
+  },
+  "answer": "Amazon Rainforest",
+  "tags": [
+    "traveling-amazon-rainforest"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125710"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125710"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b845b"
+  },
+  "answer": "Ngorongoro Crater",
+  "tags": [
+    "traveling-ngorongoro-crater"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125712"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125712"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b845d"
+  },
+  "answer": "Great Barrier Reef",
+  "tags": [
+    "traveling-great-barrier-reef"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125715"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125715"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b845f"
+  },
+  "answer": "Angkor Wat, Cambodia",
+  "tags": [
+    "traveling-angkor-wat-cambodia"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125717"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125717"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8461"
+  },
+  "answer": "Victoria Falls",
+  "tags": [
+    "traveling-victoria-falls"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125720"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125720"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8463"
+  },
+  "answer": "The Forbidden City",
+  "tags": [
+    "traveling-the-forbidden-city"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125722"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125722"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8465"
+  },
+  "answer": "Bagan Temples and Pagodas",
+  "tags": [
+    "traveling-bagan-temples-and-pagodas"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125725"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125725"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8467"
+  },
+  "answer": "Karnak Temple",
+  "tags": [
+    "traveling-karnak-temple"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125727"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125727"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8469"
+  },
+  "answer": "Teotihuacan",
+  "tags": [
+    "traveling-teotihuacan"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125731"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125731"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b846b"
+  },
+  "answer": "Banaue Rice Terraces",
+  "tags": [
+    "traveling-banaue-rice-terraces"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125732"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125732"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b846d"
+  },
+  "answer": "Bora Bora",
+  "tags": [
+    "traveling-bora-bora"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125734"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125734"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b846f"
+  },
+  "answer": "Acropolis, Greece",
+  "tags": [
+    "traveling-acropolis-greece"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125735"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125735"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8471"
+  },
+  "answer": "Potala Palace Lhasa",
+  "tags": [
+    "traveling-potala-palace-lhasa"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125737"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125737"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8473"
+  },
+  "answer": "Jerusalem Old City",
+  "tags": [
+    "traveling-jerusalem-old-city"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125739"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125739"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8475"
+  },
+  "answer": "Qin TerraCotta Warriors",
+  "tags": [
+    "traveling-qin-terracotta-warriors"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125742"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125742"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8477"
+  },
+  "answer": "Chichen Itza",
+  "tags": [
+    "traveling-chichen-itza"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125744"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125744"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8479"
+  },
+  "answer": "Petra",
+  "tags": [
+    "traveling-petra"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125746"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125746"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b847b"
+  },
+  "answer": "Nile River Cruise",
+  "tags": [
+    "traveling-nile-river-cruise"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125747"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125747"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b847d"
+  },
+  "answer": "Easter Island",
+  "tags": [
+    "traveling-easter-island"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125750"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125750"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b847f"
+  },
+  "answer": "Cappadocia",
+  "tags": [
+    "traveling-cappadocia"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125752"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125752"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8481"
+  },
+  "answer": "Colosseum",
+  "tags": [
+    "traveling-colosseum"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125753"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125753"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8483"
+  },
+  "answer": "Norwegian Fjords",
+  "tags": [
+    "traveling-norwegian-fjords"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125755"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125755"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8485"
+  },
+  "answer": "St. Peter's Basilica",
+  "tags": [
+    "traveling-st-peters-basilica"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125758"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125758"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8487"
+  },
+  "answer": "Egyptian Museum",
+  "tags": [
+    "traveling-egyptian-museum"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125760"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125760"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8489"
+  },
+  "answer": "Borobudur Temple",
+  "tags": [
+    "traveling-borobudur-temple"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125763"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125763"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b848b"
+  },
+  "answer": "Valley of the Kings",
+  "tags": [
+    "traveling-valley-of-the-kings"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125764"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125764"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b848d"
+  },
+  "answer": "Hong Kong",
+  "tags": [
+    "traveling-hong-kong"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125766"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125766"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b848f"
+  },
+  "answer": "Sistine Chapel",
+  "tags": [
+    "traveling-sistine-chapel"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125768"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125768"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8491"
+  },
+  "answer": "Alhambra",
+  "tags": [
+    "traveling-alhambra"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125771"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125771"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8493"
+  },
+  "answer": "Musée De Louvre",
+  "tags": [
+    "traveling-musee-de-louvre"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125773"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125773"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8495"
+  },
+  "answer": "Canals of Venice",
+  "tags": [
+    "traveling-canals-of-venice"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125775"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125775"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8497"
+  },
+  "answer": "Versailles",
+  "tags": [
+    "traveling-versailles"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125777"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8499"
+  },
+  "answer": "Carlsbad Caverns National Park",
+  "tags": [
+    "traveling-carlsbad-caverns-national-park"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125779"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125779"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b849b"
+  },
+  "answer": "Mecca",
+  "tags": [
+    "traveling-mecca"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125781"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125781"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b849d"
+  },
+  "answer": "Kathmandu Valley",
+  "tags": [
+    "traveling-kathmandu-valley"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125783"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125783"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b849f"
+  },
+  "answer": "Metropolitan Museum of Art",
+  "tags": [
+    "traveling-metropolitan-museum-of-art"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125786"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125786"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84a1"
+  },
+  "answer": "Mount Everest",
+  "tags": [
+    "traveling-mount-everest"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125788"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125788"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84a3"
+  },
+  "answer": "Temple of the Emerald Buddha",
+  "tags": [
+    "traveling-temple-of-the-emerald-buddha"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125791"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125791"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84a5"
+  },
+  "answer": "Hagia Sophia",
+  "tags": [
+    "traveling-hagia-sophia"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125794"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125794"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84a7"
+  },
+  "answer": "Pompeii",
+  "tags": [
+    "traveling-pompeii"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125796"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125796"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84a9"
+  },
+  "answer": "Kashmir Valley",
+  "tags": [
+    "traveling-kashmir-valley"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125798"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125798"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84ab"
+  },
+  "answer": "Prague Old Town",
+  "tags": [
+    "traveling-prague-old-town"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125800"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125800"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84ad"
+  },
+  "answer": "Golden Temple",
+  "tags": [
+    "traveling-golden-temple"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125802"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125802"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84af"
+  },
+  "answer": "Amalfi Coast",
+  "tags": [
+    "traveling-amalfi-coast"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125805"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125805"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84b1"
+  },
+  "answer": "Meenakshi Temple",
+  "tags": [
+    "traveling-meenakshi-temple"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125807"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125807"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84b3"
+  },
+  "answer": "Chartres Cathedral",
+  "tags": [
+    "traveling-chartres-cathedral"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125809"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125809"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84b5"
+  },
+  "answer": "Mezquita of Cordoba",
+  "tags": [
+    "traveling-mezquita-of-cordoba"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125811"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125811"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84b7"
+  },
+  "answer": "Damascus Old City and Umayyad",
+  "tags": [
+    "traveling-damascus-old-city-and-umayyad"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125813"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125813"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84b9"
+  },
+  "answer": "Dubrovnik, Croatia",
+  "tags": [
+    "traveling-dubrovnik-croatia"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125816"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84bb"
+  },
+  "answer": "Uffizi Gallery",
+  "tags": [
+    "traveling-uffizi-gallery"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125818"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125818"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84bd"
+  },
+  "answer": "Rio De Janeiro",
+  "tags": [
+    "traveling-rio-de-janeiro"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125820"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125820"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84bf"
+  },
+  "answer": "Temple of the Golden Pavilion",
+  "tags": [
+    "traveling-temple-of-the-golden-pavilion"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125823"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125823"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84c1"
+  },
+  "answer": "Delphi",
+  "tags": [
+    "traveling-delphi"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125826"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125826"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84c3"
+  },
+  "answer": "St. Basil's Cathedral",
+  "tags": [
+    "traveling-st-basils-cathedral"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125828"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125828"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84c5"
+  },
+  "answer": "Abu Simbel, Egypt",
+  "tags": [
+    "traveling-abu-simbel-egypt"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125830"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125830"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84c7"
+  },
+  "answer": "St. Mark's Basilica and Campanile",
+  "tags": [
+    "traveling-st-marks-basilica-and-campanile"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125833"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125833"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84c9"
+  },
+  "answer": "Florence, Italy",
+  "tags": [
+    "traveling-florence-italy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125835"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125835"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84cb"
+  },
+  "answer": "Kremlin",
+  "tags": [
+    "traveling-kremlin"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125838"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125838"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84cd"
+  },
+  "answer": "Ganges River",
+  "tags": [
+    "traveling-ganges-river"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125840"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125840"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84cf"
+  },
+  "answer": "Li River",
+  "tags": [
+    "traveling-li-river"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125843"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125843"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84d1"
+  },
+  "answer": "Shwedagon Pagoda",
+  "tags": [
+    "traveling-shwedagon-pagoda"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125845"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125845"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84d3"
+  },
+  "answer": "Sahara",
+  "tags": [
+    "traveling-sahara"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125847"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125847"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84d5"
+  },
+  "answer": "Leaning Tower of Pisa",
+  "tags": [
+    "traveling-leaning-tower-of-pisa"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125849"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125849"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84d7"
+  },
+  "answer": "Baalbek, Lebanon",
+  "tags": [
+    "traveling-baalbek-lebanon"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125852"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125852"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84d9"
+  },
+  "answer": "Mont St. Michel, France",
+  "tags": [
+    "traveling-mont-st-michel-france"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125854"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125854"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84db"
+  },
+  "answer": "Topkapi Palace",
+  "tags": [
+    "traveling-topkapi-palace"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125856"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125856"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84dd"
+  },
+  "answer": "Rio Carnival",
+  "tags": [
+    "traveling-rio-carnival"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125859"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125859"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84df"
+  },
+  "answer": "Stonehenge",
+  "tags": [
+    "traveling-stonehenge"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125861"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125861"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84e1"
+  },
+  "answer": "Angel Falls",
+  "tags": [
+    "traveling-angel-falls"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125864"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125864"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84e3"
+  },
+  "answer": "Yellowstone National Park",
+  "tags": [
+    "traveling-yellowstone-national-park"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125866"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125866"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84e5"
+  },
+  "answer": "Santorini",
+  "tags": [
+    "traveling-santorini"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125868"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125868"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84e7"
+  },
+  "answer": "Matterhorn",
+  "tags": [
+    "traveling-matterhorn"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125870"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125870"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84e9"
+  },
+  "answer": "Marrakech, Morocco",
+  "tags": [
+    "traveling-marrakech-morocco"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125873"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84eb"
+  },
+  "answer": "Eiffel Tower",
+  "tags": [
+    "traveling-eiffel-tower"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125874"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84ed"
+  },
+  "answer": "Ladakh, India",
+  "tags": [
+    "traveling-ladakh-india"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125876"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84ef"
+  },
+  "answer": "Niagara Falls",
+  "tags": [
+    "traveling-niagara-falls"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125879"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125879"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84f1"
+  },
+  "answer": "British Museum",
+  "tags": [
+    "traveling-british-museum"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125882"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125882"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84f3"
+  },
+  "answer": "Burj Al Arab",
+  "tags": [
+    "traveling-burj-al-arab"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125884"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125884"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84f5"
+  },
+  "answer": "Antarctica",
+  "tags": [
+    "traveling-antarctica"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125886"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125886"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84f7"
+  },
+  "answer": "Yangtze River",
+  "tags": [
+    "traveling-yangtze-river"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125888"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125888"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84f9"
+  },
+  "answer": "Yosemite National Park",
+  "tags": [
+    "traveling-yosemite-national-park"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125896"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125896"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84fb"
+  },
+  "answer": "Ayers Rock",
+  "tags": [
+    "traveling-ayers-rock"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125899"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125899"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84fd"
+  },
+  "answer": "Chambord Chateau",
+  "tags": [
+    "traveling-chambord-chateau"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125901"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125901"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b84ff"
+  },
+  "answer": "Temple of Heaven, China",
+  "tags": [
+    "traveling-temple-of-heaven-china"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125904"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125904"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8501"
+  },
+  "answer": "Schloss Neuschwanstein",
+  "tags": [
+    "traveling-schloss-neuschwanstein"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125905"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125905"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8503"
+  },
+  "answer": "Suez Canal",
+  "tags": [
+    "traveling-suez-canal"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125907"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125907"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8505"
+  },
+  "answer": "San Francisco",
+  "tags": [
+    "traveling-san-francisco"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125909"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125909"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8507"
+  },
+  "answer": "Dead Sea",
+  "tags": [
+    "traveling-dead-sea"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125911"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125911"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c46c2586006ac9786b8509"
+  },
+  "answer": "Portofino, Italy",
+  "tags": [
+    "traveling-portofino-italy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673817125913"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673817125913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b850d"
+  },
+  "answer": "Hatha",
+  "tags": [
+    "yoga-hatha"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537102"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537102"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b850f"
+  },
+  "answer": "Iyengar",
+  "tags": [
+    "yoga-iyengar"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537106"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537106"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b8511"
+  },
+  "answer": "Kundalini",
+  "tags": [
+    "yoga-kundalini"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537108"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537108"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b8513"
+  },
+  "answer": "Ashtanga",
+  "tags": [
+    "yoga-ashtanga"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537111"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537111"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b8515"
+  },
+  "answer": "Vinyasa",
+  "tags": [
+    "yoga-vinyasa"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537113"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537113"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b8517"
+  },
+  "answer": "Bikram",
+  "tags": [
+    "yoga-bikram"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537115"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537115"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b8519"
+  },
+  "answer": "Yin",
+  "tags": [
+    "yoga-yin"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537117"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537117"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b851b"
+  },
+  "answer": "Restorative",
+  "tags": [
+    "yoga-restorative"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537120"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537120"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b851d"
+  },
+  "answer": "Prenatal",
+  "tags": [
+    "yoga-prenatal"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537122"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537122"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b851f"
+  },
+  "answer": "Anusara",
+  "tags": [
+    "yoga-anusara"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537124"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537124"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b8521"
+  },
+  "answer": "Jivanmukti",
+  "tags": [
+    "yoga-jivanmukti"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537126"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537126"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b8523"
+  },
+  "answer": "Aerial",
+  "tags": [
+    "yoga-aerial"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537128"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537128"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b8525"
+  },
+  "answer": "Acro",
+  "tags": [
+    "yoga-acro"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537130"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537130"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c471a986006ac9786b8527"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818537133"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818537133"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4724d86006ac9786b852b"
+  },
+  "answer": "Urban",
+  "tags": [
+    "walking-urban"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818701407"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818701407"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4724d86006ac9786b852d"
+  },
+  "answer": "Suburban/Town",
+  "tags": [
+    "walking-suburban-town"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818701408"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818701408"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4724d86006ac9786b852f"
+  },
+  "answer": "Trail",
+  "tags": [
+    "walking-trail"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818701410"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818701410"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4724d86006ac9786b8531"
+  },
+  "answer": "Off-trail gentle terrain",
+  "tags": [
+    "walking-off-trail-gentle-terrain"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818701413"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818701413"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4724d86006ac9786b8533"
+  },
+  "answer": "Extreme terrain",
+  "tags": [
+    "walking-extreme-terrain"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818701415"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818701415"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4724d86006ac9786b8535"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818701417"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818701417"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c472b486006ac9786b8539"
+  },
+  "answer": "Yes",
+  "tags": [
+    "woodworker"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818804727"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818804727"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c472b486006ac9786b853b"
+  },
+  "answer": "No",
+  "tags": [
+    "not-woodworker"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673818804729"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673818804729"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b853f"
+  },
+  "answer": "Roman Catholic Christianity",
+  "tags": [
+    "religion-roman-catholic-christianity"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511889"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511889"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8541"
+  },
+  "answer": "Protestant Christianity",
+  "tags": [
+    "religion-protestant-christianity"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511892"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511892"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8543"
+  },
+  "answer": "Orthodox Chrisitanity",
+  "tags": [
+    "religion-orthodox-christianity"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511893"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511893"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8545"
+  },
+  "answer": "Anglican Christianity",
+  "tags": [
+    "religion-anglican-christianity"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511895"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511895"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8547"
+  },
+  "answer": "Sunni Islam",
+  "tags": [
+    "religion-sunni-islam"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511897"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511897"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8549"
+  },
+  "answer": "Shia Islam",
+  "tags": [
+    "religion-shia-islam"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511899"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511899"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b854b"
+  },
+  "answer": "Hinduism",
+  "tags": [
+    "religion-hinduism"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511902"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511902"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b854d"
+  },
+  "answer": "Theravada Buddhism",
+  "tags": [
+    "religion-theravada-buddhism"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511904"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511904"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b854f"
+  },
+  "answer": "Mahayana Buddishm",
+  "tags": [
+    "religion-mahayana-buddhism"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511906"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511906"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8551"
+  },
+  "answer": "Vajrayana Buddhism",
+  "tags": [
+    "religion-vajrayana-buddhism"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511908"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511908"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8553"
+  },
+  "answer": "Sikh",
+  "tags": [
+    "religion-sikh"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511910"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511910"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8555"
+  },
+  "answer": "Orthodox Judaism",
+  "tags": [
+    "religion-orthodox-judaism"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511912"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511912"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8557"
+  },
+  "answer": "Reform Judaism",
+  "tags": [
+    "religion-reform-judaism"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511914"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511914"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b8559"
+  },
+  "answer": "Conservative Judaism",
+  "tags": [
+    "religion-conservative-judaism"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511916"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511916"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b855b"
+  },
+  "answer": "Agnostic",
+  "tags": [
+    "religion-agnostic"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511919"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511919"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b855d"
+  },
+  "answer": "Atheist",
+  "tags": [
+    "religion-atheist"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511921"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511921"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4757786006ac9786b855f"
+  },
+  "answer": "Other",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673819511923"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673819511923"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbdd1be9644326dd05dcc7"
+  },
+  "answer": "[1,25,3,15,\"hour(s)\"]",
+  "tags": [
+    "reading-light",
+    "reading-moderate",
+    "reading-heavy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674304795651"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674305288082"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce8f70deb3c3399cfb4e05"
+  },
+  "answer": "[1,25,5,15,\"hour(s)\"]",
+  "tags": [
+    "gardening-light",
+    "gardening-moderate",
+    "gardening-heavy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674481520621"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674481520621"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce8fd7deb3c3399cfb4e09"
+  },
+  "answer": "[1,25,3,15,\"hour(s)\"]",
+  "tags": [
+    "volunteering-light",
+    "volunteering-moderate",
+    "volunteering-heavy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674481623592"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674481623592"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce9ebedeb3c3399cfb4e0d"
+  },
+  "answer": "[1,25,2,10,\"hour(s)\"]",
+  "tags": [
+    "writing-light",
+    "writing-moderate",
+    "writing-heavy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674485438681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674485438681"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cea0e8deb3c3399cfb4e11"
+  },
+  "answer": "[1,25,10,20,\"hour(s)\"]",
+  "tags": [
+    "housework-light",
+    "housework-moderate",
+    "housework-heavy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674485992203"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674485992203"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cea1addeb3c3399cfb4e15"
+  },
+  "answer": "[0,25,3,12,\"home improvements\"]",
+  "tags": [
+    "home-improvement-light",
+    "home-improvement-moderate",
+    "home-improvement-heavy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674486189968"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674486189968"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cea227deb3c3399cfb4e19"
+  },
+  "answer": "[0,15,2,7,\"meal(s)\"]",
+  "tags": [
+    "dining-out-light",
+    "dining-out-moderate",
+    "dining-out-heavy"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674486311002"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674486311002"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d146ae84070341dd5c0072"
+  },
+  "answer": "None",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674659502010"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674659502010"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d146d284070341dd5c00d4"
+  },
+  "answer": "None",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674659538355"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674659538355"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da75b4e89a61123865a027"
+  },
+  "answer": "Sandbox",
+  "tags": [
+    "video-games-sandbox"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675261364160"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675261364160"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da75b4e89a61123865a029"
+  },
+  "answer": "Survival",
+  "tags": [
+    "video-games-survival"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675261364178"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675261364178"
+    }
+  },
+  "__v": 0
+}]

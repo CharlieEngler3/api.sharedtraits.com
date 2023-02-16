@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "63ac5d27c41af4ac831d87b6"
+  },
+  "username": "username",
+  "email": "email@email.com",
+  "password": "password",
+  "questionTags": [
+    "starter-question"
+  ],
+  "answeredQuestions": [],
+  "answers": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672240424004"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674664752096"
+    }
+  },
+  "__v": 69,
+  "profileTags": []
+},{
+  "_id": {
+    "$oid": "63da9a6e0ed1a11480d1d37b"
+  },
+  "username": "testuser",
+  "email": "testuser@email.com",
+  "password": "9d323c7cd6d51b12e9fb7bce7d4d78159b7600c9bc057336a7d3bac4e107c7bedc917cafd2a1702d403a4787cc5c9cd3a56d5b5398f4b88f3b92604bd6f85233",
+  "salt": "aea8a883f7a9516e109f70df2cbc2270",
+  "profileTags": [],
+  "questionTags": [
+    "starter-question"
+  ],
+  "answeredQuestions": [],
+  "answers": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675270766202"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675270766202"
+    }
+  },
+  "__v": 0
+}]
